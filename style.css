@@ -1,4 +1,14 @@
 *{
-    background-color: aqua;
-    color: black;
+    background-color: rgb(15, 201, 201);
+}
+.writingStyles {
+    color: rgb(31, 6, 78);
+    font-weight: bold;
+
+  
+}
+
+#top2{
+    text-transform: capitalize;
+    text-decoration: underline;
 }
