@@ -15,6 +15,9 @@
 #rndm{
     text-align: center;
     justify-content: center;
-    color: rgb(87, 46, 7);
+    color: rgb(99, 55, 14);
     text-transform: capitalize;
+    text-decoration: line-through;
+   
+
 }
