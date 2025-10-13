@@ -11,6 +11,7 @@
 #top2{
     text-transform: capitalize;
     text-decoration: underline;
+    text-decoration-color: crimson;
 }
 #rndm{
     text-align: center;
