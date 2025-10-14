@@ -22,7 +22,7 @@ for(let i=1; i<=5; i++){
 }
 console.log("sum =", sum);
 
-console.log("WHILE LOOP");
+console.log("....WHILE LOOP.....");
 // While loop
 
 let i = 1;
@@ -32,7 +32,7 @@ while(i<=5){
 }
 
 // do while loop
-console.log("DO WHILE LOOP");
+console.log("....DO WHILE LOOP....");
 
 let j = 1;
 do{
@@ -41,7 +41,7 @@ do{
 }while(j<=5);
 
 //for of loop
-console.log("FOR OF LOOP");
+console.log("....FOR OF LOOP....");
 
  let str = "JavaScript";
  
@@ -51,4 +51,15 @@ console.log("FOR OF LOOP");
     size++;
  }
  console.log("String size =",size);
+
+ // for in loop
+ console.log("....FOR IN LOOP.....");
+ let student ={
+    name : "John",
+    age : 22,
+    isPassed : true,
+ };
+ for(let key in student){
+    console.log("key =",key,"value =",student[key]);
+ }
 
