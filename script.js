@@ -63,3 +63,13 @@ console.log("....FOR OF LOOP....");
     console.log("key =",key,"value =",student[key]);
  }
 
+ //Pratice set
+ console.log("Pratice set");
+ 
+ for(let num= 0; num<=10; num++){
+    if(num%2 === 0)
+    console.log("Number =",num);
+   
+ }
+
+ 
