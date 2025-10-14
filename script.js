@@ -40,4 +40,15 @@ do{
     j++;
 }while(j<=5);
 
+//for of loop
+console.log("FOR OF LOOP");
+
+ let str = "JavaScript";
+ 
+ let size =0;
+ for(let i of str){
+    console.log("i=",i);
+    size++;
+ }
+ console.log("String size =",size);
 
