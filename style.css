@@ -1,5 +1,6 @@
 *{
     background-color: rgb(32, 160, 160);
+    
 }
 .writingStyles {
     color: rgb(31, 6, 78);
@@ -100,4 +101,12 @@
     padding-right: 20px;
     
 
+}
+
+.select-sub {
+    
+    padding: 3px;
+    border-radius: 5px;
+    margin: auto;
+    
 }
