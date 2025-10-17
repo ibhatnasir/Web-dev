@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(15, 201, 201);
+    background-color: rgb(32, 160, 160);
 }
 .writingStyles {
     color: rgb(31, 6, 78);
@@ -31,3 +31,13 @@
     text-transform: capitalize;
     text-align: left;   
 }
+
+.Reg-form{
+    background-color: rgb(11, 70, 94);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(116, 27, 218);
+    width: 350px;
+    margin: auto;
+}
+
