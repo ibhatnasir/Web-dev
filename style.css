@@ -108,5 +108,25 @@
     padding: 3px;
     border-radius: 5px;
     margin: auto;
+
+}
+
+.submission input{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10p;
+    border-radius: 5px;
+    border: none;
+    box-sizing: border-box;
+   
+}
+
+.buttons{
+
+    justify-content: space-evenly;
+    text-align: center;
+    border: none;
     
+
 }
