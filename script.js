@@ -72,4 +72,19 @@ console.log("....FOR OF LOOP....");
    
  }
 
+ // Strigs 
+
+ let str3 = "HelloWorld"; // 
+ console.log(str3[6]); 
+
+ // Template Literals is a special string
+
+ let obj ={
+    item : "Book",
+    price : 15,
+ };
+
+ let output = `the cost of ${obj.item} is ${obj.price} rupees`;
+console.log(output);
+
  
