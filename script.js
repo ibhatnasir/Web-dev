@@ -87,4 +87,6 @@ console.log("....FOR OF LOOP....");
  let output = `the cost of ${obj.item} is ${obj.price} rupees`;
 console.log(output);
 
+
+
  
