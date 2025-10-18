@@ -148,5 +148,6 @@
 .buttons button:hover{
     background-color: rgb(32, 160, 160);
     color: rgb(35, 21, 236);
-    transition: 0.3s;
+    transition: 0.4s;   
+   
 }
