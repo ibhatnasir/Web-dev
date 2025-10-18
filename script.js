@@ -87,6 +87,25 @@ console.log("....FOR OF LOOP....");
  let output = `the cost of ${obj.item} is ${obj.price} rupees`;
 console.log(output);
 
+// Arrays in Js
 
-
+let marks =  [83, 22, 92, 72, 44]; 
+console.log(marks);
  
+// Looping over an Array
+
+let heroes = ["ironman", "spiderman", "thor", "hulk","khan"];
+
+// for loop
+
+for (let i = 0; i < heroes.length; i++) {
+    console.log(heroes[i]);
+}
+
+
+
+//for of loop
+
+for (let hero of heroes) {
+    console.log(hero);
+}
