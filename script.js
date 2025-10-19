@@ -120,3 +120,10 @@ for (let mark of marks1) {
 
 let avg = sum1 / marks1.length;
 console.log("Average marks of the class =", avg);
+
+// Lets pratice more  'Discount'
+
+let items = [100, 200, 300, 400, 500];
+
+let i = 0;
+for (let item of items) {
