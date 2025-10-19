@@ -109,3 +109,14 @@ for (let i = 0; i < heroes.length; i++) {
 for (let hero of heroes) {
     console.log(hero);
 }
+
+// Pratice set  
+
+let marks1 = [45, 67, 89, 23, 12, 90, 34];
+let sum1 = 0;
+for (let mark of marks1) {
+    sum1 += mark;
+}
+
+let avg = sum1 / marks1.length;
+console.log("Average marks of the class =", avg);
