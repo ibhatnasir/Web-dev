@@ -123,7 +123,13 @@ console.log("Average marks of the class =", avg);
 
 // Lets pratice more  'Discount'
 
-let items = [100, 200, 300, 400, 500];
+let itemss = [100, 200, 300, 400, 500];
 
-let i = 0;
-for (let item of items) {
+let n = 0;
+for (let val of itemss) {
+    console.log(`value at index ${i} = ${val}`);
+    let offer = val / 10;
+    itemss [i] = itemss [i] - offer;
+    console.log (`value after offer =  ${itemss[i]}`);
+    i++
+ }
