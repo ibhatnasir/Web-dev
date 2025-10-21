@@ -146,3 +146,14 @@ for (let val of itemss) {
     i++
 }
 
+// pratice set
+
+let companies = ["Blooberg", "Microsoft", "Uber", "Google", "fiverr", "Speedykart"];
+console.log("companies:",companies);
+
+companies.shift(); // remove first company
+
+companies.splice(2, 1, "Ola"); // remove Uber and add Ola;
+
+companies.push("Amazon"); // Adding amazon at last ;
+
