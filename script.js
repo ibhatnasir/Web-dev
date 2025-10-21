@@ -157,3 +157,5 @@ companies.splice(2, 1, "Ola"); // remove Uber and add Ola;
 
 companies.push("Amazon"); // Adding amazon at last ;
 
+// Functions in JS
+console.log("Functions in JS");
