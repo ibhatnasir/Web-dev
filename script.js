@@ -146,9 +146,3 @@ for (let val of itemss) {
     i++
 }
 
-// Functions in JS
-
-function greet(){
-    console.log("Hello User");
-    console.log("Welcome to JS world");
-}
