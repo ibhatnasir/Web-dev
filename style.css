@@ -2,7 +2,7 @@
     background-color: rgb(32, 160, 160);
     
 }
-/* .writingStyles {
+.writingStyles {
     color: rgb(31, 6, 78);
     font-weight: bold;
 
@@ -31,7 +31,7 @@
     line-height: 1.8;
     text-transform: capitalize;
     text-align: left;   
-}  */
+} 
 
 #reg{
     text-align: center;
