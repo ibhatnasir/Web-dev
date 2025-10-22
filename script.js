@@ -1,6 +1,6 @@
-alert("Welcome");
-console.log("Hello world");
-alert("Enjoy");
+// alert("Welcome");
+// console.log("Hello world");
+// alert("Enjoy");
 let a = 3 , b = 5;
 console.log("a+b=",a+b);
 console.log("a*b=",a*b);
@@ -166,7 +166,16 @@ function greet(name, greetText){
 }   
 greet("Alice", "Good Morning");
 greet("Bob", "Hello");  
-greet("Charlie", "Hi there");
+greet("Charlie", "Hi there","hyy");
 
 // Function syntax 
 
+function total (x, y ) {
+    s = x + y;
+    console.log(s);
+    return 0;
+}
+
+let val = total(3,4);
+console.log(s);
+console.log(val);
