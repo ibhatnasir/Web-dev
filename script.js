@@ -173,9 +173,18 @@ greet("Charlie", "Hi there","hyy");
 function total (x, y ) {
     s = x + y;
     console.log(s);
-    return 0;
+    return s;
 }
 
 let val = total(3,4);
 console.log(s);
 console.log(val);
+
+// Arrow Functions 
+console.log("\n Arrow Sum function");
+
+function arrowSum(d, c) {
+    console.log(d + c);
+}
+x = arrowSum(10, 20);
+console.log(x);
