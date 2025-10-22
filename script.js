@@ -161,10 +161,12 @@ companies.push("Amazon"); // Adding amazon at last ;
 
 console.log("Functions in JS");
 
-
 function greet(name, greetText){
     console.log(greetText + " " + name);
 }   
 greet("Alice", "Good Morning");
 greet("Bob", "Hello");  
 greet("Charlie", "Hi there");
+
+// Function syntax 
+
