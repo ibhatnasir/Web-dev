@@ -1,6 +1,10 @@
 // alert("Welcome");
-// console.log("Hello world");
 // alert("Enjoy");
+
+console.log("Hello world");
+console.log("This is my first JS code");
+
+// Variables in JS
 let a = 3 , b = 5;
 console.log("a+b=",a+b);
 console.log("a*b=",a*b);
