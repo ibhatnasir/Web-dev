@@ -158,3 +158,17 @@
     font-size: 25px;
     text-transform: capitalize;
 }
+
+.pSec1 {
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: crimson;
+}
+
+.pSec1 :hover {
+    color: rgb(255, 0, 0);
+    transition: 0.4s;
+}
