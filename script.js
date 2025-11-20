@@ -182,3 +182,5 @@ function arrowSum(d, c) {
 x = arrowSum(10, 20);
 console.log(x);
 
+// DOM (Document Object Method)
+
